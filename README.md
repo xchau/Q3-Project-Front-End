@@ -7,19 +7,22 @@
 ##Demo Video
 [click here](https://youtu.be/GdP45lDkTq0)
 
-##About
-**this.city** serves to provide locals with an outlet to express their concerns about their city. Users can create an issue marker on the **this.city** map anytime they spot a broken traffic light or some garbage on the streets. This information is shared with other users, who may then verify (up vote) or contradict (down vote) the claims. Ideally, this creates a healthy citizen-driven ecosystem for the purpose of maintaining and bettering one's community. 
+##Project Description
+Whether you live in the big city or a small hamlet, there are always things to improve. **this.city** serves to provide locals with an outlet to express their concerns about their city and potentially crowd-source a solution.  
+
+##Features
+Users of **this.city** can create and track observable issues around their city. The app allows users to detail information about a particular issue and pin it to a map where other users may view it. Other users may also verify (up vote) or contradict (down vote) the claims made by the original poster to generate more/less public interest. This creates a healthy citizen-driven ecosystem for the maintenance and betterment of one's community.
 
 ##Technologies Used
 * React Native
 * React Native Google Maps
 * Android Studio (SDK managment)
 * PostgresQL
-* JSX
+* JavaScript
   * Axios
-  * Knex
-  * Express
-
+  * ExpressJS
+  * Node.js
+  * Knex.js
 
 ##Future Development
 1. Allow for users to leave comments on issues
