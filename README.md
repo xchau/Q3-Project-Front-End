@@ -1,5 +1,4 @@
 #this.city
-Report, Review, Revamp.
 [![this.city: Login](/screenshots/login.png)](https://github.com/xchau/Q3-Project-Front-End)
 [![this.city: Map View](/screenshots/map.png)](https://github.com/xchau/Q3-Project-Front-End)
 [![this.city: Reporting Issues](/screenshots/report.png)](https://github.com/xchau/Q3-Project-Front-End)
@@ -9,7 +8,7 @@ Report, Review, Revamp.
 [click here](https://youtu.be/GdP45lDkTq0)
 
 ##About
-**this.city** serves to engage locals to engage in the maintenance and betterment of their community.   
+**this.city** serves to provide locals with an outlet to express their concerns about their city. Users can create an issue marker on the **this.city** map anytime they spot a broken traffic light or some garbage on the streets. This information is shared with other users, who may then verify (up vote) or contradict (down vote) the claims. Ideally, this creates a healthy citizen-driven ecosystem for the purpose of maintaining and bettering one's community. 
 
 ##Technologies Used
 * React Native
