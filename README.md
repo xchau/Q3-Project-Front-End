@@ -8,7 +8,7 @@
 [click here](https://youtu.be/GdP45lDkTq0)
 
 ##Project Description
-Whether you live in the big city or a small hamlet, there are always things to improve. **this.city** serves to provide locals with an outlet to express their concerns about their city and potentially crowd-source a solution.  
+Whether you live in the big city or a small hamlet, there are always things to improve. **this.city** serves to provide locals with an outlet to express their concerns about their city and potentially crowd-source solutions to the problems at hand.  
 
 ##Features
 Users of **this.city** can create and track observable issues around their city. The app allows users to detail information about a particular issue and pin it to a map where other users may view it. Other users may also verify (up vote) or contradict (down vote) the claims made by the original poster to generate more/less public interest. This creates a healthy citizen-driven ecosystem for the maintenance and betterment of one's community.
@@ -33,4 +33,4 @@ Users of **this.city** can create and track observable issues around their city.
 6. Input validation
 7. Proper authorization
 
-*Made in collaboration with* [Jamieson Bates] (https://github.com/jamiesonbates)
+*Made in eaulcollaboration with* [Jamieson Bates] (https://github.com/jamiesonbates)

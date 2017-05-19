@@ -112,7 +112,7 @@ export default class Login extends Component {
 
   callToken() {
     axios
-      .post('https://q3project-server.herokuapp.com/api/token', {
+      .post('https://q3-project-server.herokuapp.com/api/token', {
         email: this.state.email,
         password: this.state.password,
       })

@@ -172,7 +172,7 @@ class Report extends Component {
     delete problem.categories;
 
     axios
-      .post('https://q3project-server.herokuapp.com/api/problem', problem)
+      .post('https://q3-project-server.herokuapp.com/api/problem', problem)
       .then((res) => {
         if (res.data) {
           this.props.updateMap();

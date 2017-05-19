@@ -98,7 +98,7 @@ export default class Registration extends Component {
 
   handleSubmit() {
     axios
-      .post('https://q3project-server.herokuapp.com/api/users', this.state)
+      .post('https://q3-project-server.herokuapp.com/api/users', this.state)
       .then((res) => {
         if (res.data.id) {
           this.navigate('map');
