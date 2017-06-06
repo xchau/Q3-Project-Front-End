@@ -200,7 +200,7 @@ export default class Map extends Component {
   updateMap() {
     axios({
       method: 'post',
-      url: 'https://q3-project-server.herokuapp.com/api/markers',
+      url: 'https://this-city-server.herokuapp.com/api/markers',
       data: {
         lat: this.state.center.lat,
         lng: this.state.center.lng

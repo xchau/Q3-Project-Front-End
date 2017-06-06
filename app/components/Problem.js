@@ -168,7 +168,7 @@ class Problem extends Component {
 
     if (this.state.votedBefore) {
       axios
-        .patch('https://q3-project-server.herokuapp.com/api/verification', verificationInfo)
+        .patch('https://this-city-server.herokuapp.com/api/verification', verificationInfo)
         .then((res) => {
           this.props.updateMap();
           if (res.data.verified) {
@@ -190,7 +190,7 @@ class Problem extends Component {
     }
     else {
       axios
-        .post('https://q3-project-server.herokuapp.com/api/verification', verificationInfo)
+        .post('https://this-city-server.herokuapp.com/api/verification', verificationInfo)
         .then((res) => {
           this.props.updateMap();
           if (res.data.verified) {
@@ -289,7 +289,7 @@ class Problem extends Component {
     const userId = this.props.userInfo.id;
     const probId = this.state.currentProblem.id;
     axios
-      .get(`https://q3-project-server.herokuapp.com/api/verification/${userId}/${probId}`)
+      .get(`https://this-city-server.herokuapp.com/api/verification/${userId}/${probId}`)
       .then((res) => {
         if (res.data) {
           if (res.data.verified) {
