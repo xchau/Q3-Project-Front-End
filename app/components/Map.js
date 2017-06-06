@@ -433,7 +433,7 @@ export default class Map extends Component {
 
         this.updateMap();
       },
-      (err) => console.error(err.message)
+      (err) => console.error('its me')
     );
   }
 
