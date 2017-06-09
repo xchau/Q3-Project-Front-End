@@ -433,7 +433,7 @@ export default class Map extends Component {
 
         this.updateMap();
       },
-      (err) => console.error('its me')
+      (err) => console.error(err.message, `Failed to obtain current location. Manually add lat/lng to simulator.`)
     );
   }
 
