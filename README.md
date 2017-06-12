@@ -13,7 +13,7 @@ The purpose of this.city is to provide people like you with a means of alerting 
 
 ## Installation
 1. Install the [React Native CLI](https://facebook.github.io/react-native/docs/getting-started.html)
-2. Download [Android Studio](https://developer.android.com/studio/index.html)
+2. Download [Android Studio](https://developer.android.com/studio/index.html)(needed for Android phone emulator)
 3. `yarn`
 4. Start android avd
 5. `react-native run-android`
