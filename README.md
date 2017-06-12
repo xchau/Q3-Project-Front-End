@@ -1,6 +1,6 @@
 # this.city
 
-Imagine this: you're walking to the grocery store to pick up some milk and you come across *that* alley. The one that's always littered with broken glass. What do you do? What can you do?
+Imagine this: you're walking to the grocery store as per weekly routine and you pass by the *that* alley. The one that's always littered with broken glass and loose garbage. What actions can you take to make this less of a routine? How can you warn others?
 
 The purpose of this.city is to provide people like you with a means of alerting your community to potentially dangerous or unsightly areas in your city. This puts a spotlight on communal problems and generates civic interest in solving them. So have a gripe? Pin it and take your first step toward improving this.city.  
 
