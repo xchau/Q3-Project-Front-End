@@ -1,10 +1,11 @@
 # this.city
+## Introduction
 
 Imagine this: you're walking to the grocery store as per weekly routine and you pass by *that* alley. The one that's notorious in your neighborhood for always being littered with broken glass and loose garbage. What actions can you take to make this less of a routine? How can you warn others?
 
 The purpose of this.city is to provide people like you with a means of alerting your community to potentially dangerous or unsightly areas in your city. This puts a spotlight on communal problems and generates civic interest in solving them. So have a gripe? Pin it and take your first step toward improving this.city.  
 
-[DEMO VIDEO](https://youtu.be/GdP45lDkTq0)
+[DEMO VIDEO](https://youtu.be/QoWOduW2z74)
 
 [![this.city: Login](/screenshots/login.png)](https://github.com/xchau/this-city)
 [![this.city: Map View](/screenshots/map.png)](https://github.com/xchau/this-city)
